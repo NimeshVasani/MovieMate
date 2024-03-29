@@ -15,11 +15,26 @@ All copyright reserved @Nimesh Vasani
 
 Welcome to MovieMate, your ultimate destination for streaming movies and TV shows on your Android TV! With a sleek interface, seamless playback, and a vast library of content, MovieMate is your go-to entertainment app for the big screen.
 
-This App use The [Movie Database | TMDB](https://developer.themoviedb.org/docs/getting-started) 
-Update your Own [API_KEY here](https://github.com/NimeshVasani/MovieMate/blob/7396a6fdcc121e65c1f549183b66fce31720104b/app/src/main/java/com/nimesh/vasani/moviemate/Config.java)
+This App use [The Movie Database | TMDB](https://developer.themoviedb.org/docs/getting-started) sign in and get API KEY. 
 
-##Screenshots 
-[image1]()
+Update your Own [API_KEY here](https://github.com/NimeshVasani/MovieMate/blob/7396a6fdcc121e65c1f549183b66fce31720104b/app/src/main/java/com/nimesh/vasani/moviemate/Config.java).
+
+## Screenshots [All](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots)
+
+### Home Screen
+[image1](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/Screenshot_20240329_135519.png)
+
+### Top Rated
+[image2](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/top_rated.png)
+
+### Popular 
+[image3](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/popular.png)
+
+### Detail Screen
+[image4](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/detail.png)
+
+### Cast and other data
+[image5](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/detail_cast.png)
 
 
 ## Features:
