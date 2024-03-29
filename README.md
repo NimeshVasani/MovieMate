@@ -11,12 +11,16 @@ All copyright reserved @Nimesh Vasani
 [Stack Overflow](https://stackoverflow.com/users/16579306/nimesh-vasani)
 
 
-
-
-
 # MovieMate 🎬📺
 
 Welcome to MovieMate, your ultimate destination for streaming movies and TV shows on your Android TV! With a sleek interface, seamless playback, and a vast library of content, MovieMate is your go-to entertainment app for the big screen.
+
+This App use The [Movie Database | TMDB](https://developer.themoviedb.org/docs/getting-started) 
+Update your Own [API_KEY here](https://github.com/NimeshVasani/MovieMate/blob/7396a6fdcc121e65c1f549183b66fce31720104b/app/src/main/java/com/nimesh/vasani/moviemate/Config.java)
+
+##Screenshots 
+[image1]()
+
 
 ## Features:
 
