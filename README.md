@@ -21,20 +21,21 @@ Update your Own [API_KEY here](https://github.com/NimeshVasani/MovieMate/blob/73
 
 ## Screenshots [All](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots)
 
-### Home Screen
+### Home Screen 📺
+
 ![image1](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/Screenshot_20240329_135519.png)
 
-### Top Rated
-[image2](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/top_rated.png)
+### Top Rated 🔝
+![image2](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/top_rated.png)
 
-### Popular 
-[image3](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/popular.png)
+### Popular 🍿
+![image3](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/popular.png)
 
-### Detail Screen
-[image4](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/detail.png)
+### Detail Screen ✅  
+![image4](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/detail.png)
 
-### Cast and other data
-[image5](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/detail_cast.png)
+### Cast and other data ℹ️
+![image5](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/detail_cast.png)
 
 
 ## Features:
