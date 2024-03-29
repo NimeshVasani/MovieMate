@@ -22,7 +22,7 @@ Update your Own [API_KEY here](https://github.com/NimeshVasani/MovieMate/blob/73
 ## Screenshots [All](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots)
 
 ### Home Screen
-[image1](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/Screenshot_20240329_135519.png)
+[!image1](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/Screenshot_20240329_135519.png)
 
 ### Top Rated
 [image2](https://github.com/NimeshVasani/MovieMate/blob/bcc17adf546eaafb25e12b08b101354865ff5159/snapshots/top_rated.png)
